@@ -1,6 +1,6 @@
 MinnePille Privacy Policy
 
-Effective Date: 2023/10/25
+Effective Date: 2023/09/25
 
 1. Introduction
 
@@ -67,4 +67,4 @@ This Privacy Policy is not intended to create a contractual or other legal right
 MinnePille
 Langhus, Norway
 reitechstudios@gmail.com
-2024/10/25
+2024/09/25
