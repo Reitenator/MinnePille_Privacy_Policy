@@ -4,7 +4,7 @@ Effective Date: 2023/09/25
 
 1. Introduction
 
-This Privacy Policy explains how [Your App Name] ("we," "us," or "our") collects, uses, and protects the information that you provide when you use our mobile application (the "App"). We are committed to protecting your privacy and ensuring the security of your personal information. Please read this Privacy Policy carefully to understand our practices regarding your data.
+This Privacy Policy explains how MinnePille ("we," "us," or "our") collects, uses, and protects the information that you provide when you use our mobile application (the "App"). We are committed to protecting your privacy and ensuring the security of your personal information. Please read this Privacy Policy carefully to understand our practices regarding your data.
 
 By downloading and using our App, you agree to the terms of this Privacy Policy. If you do not agree with our practices, please do not use the App.
 
