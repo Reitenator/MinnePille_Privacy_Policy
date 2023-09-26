@@ -65,6 +65,9 @@ If you have any questions, concerns, or comments about this Privacy Policy or ou
 This Privacy Policy is not intended to create a contractual or other legal right in or on behalf of any party. It may be subject to the laws and regulations of the relevant jurisdiction in which the App is used.
 
 MinnePille
+
 Langhus, Norway
+
 reitechstudios@gmail.com
+
 2024/09/25
